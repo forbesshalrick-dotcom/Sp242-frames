@@ -2,7 +2,7 @@
   "generated_by": "Claude (M1 master session), 2026-09-12",
   "source_machine": "Rodney's Mac \u2014 original folders still on its Desktop, untouched",
   "note": "Filenames are exactly as renamed on the source Mac; the shoe grouping lives in the shared filename prefix. Do not rename further before matching to listings.",
-  "cdn_base_pattern": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@<commit>/marketplace-drop-2026-09-12/<pics-to-post|pics-for-singles>/<filename>",
+  "cdn_base_pattern": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/<pics-to-post|pics-for-singles>/<filename>",
   "pics_to_post": [
     {
       "shoe": "Air Max 95 \u2014 Forest Green",
@@ -19,9 +19,9 @@
         "airmax 95 forest green size 8,10 $120 (3).JPG"
       ],
       "file_urls": {
-        "airmax 95 forest green size 8,10 $120.JPG": "__CDN_BASE__/pics-to-post/airmax 95 forest green size 8,10 $120.JPG",
-        "airmax 95 forest green size 8,10 $120 (2).JPG": "__CDN_BASE__/pics-to-post/airmax 95 forest green size 8,10 $120 (2).JPG",
-        "airmax 95 forest green size 8,10 $120 (3).JPG": "__CDN_BASE__/pics-to-post/airmax 95 forest green size 8,10 $120 (3).JPG"
+        "airmax 95 forest green size 8,10 $120.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%2095%20forest%20green%20size%208%2C10%20%24120.JPG",
+        "airmax 95 forest green size 8,10 $120 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%2095%20forest%20green%20size%208%2C10%20%24120%20%282%29.JPG",
+        "airmax 95 forest green size 8,10 $120 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%2095%20forest%20green%20size%208%2C10%20%24120%20%283%29.JPG"
       }
     },
     {
@@ -40,9 +40,9 @@
         "airmax drifts orange:black 5.5,6.5 $70 (3).JPG"
       ],
       "file_urls": {
-        "airmax drifts orange:black 5.5,6.5 $70.JPG": "__CDN_BASE__/pics-to-post/airmax drifts orange:black 5.5,6.5 $70.JPG",
-        "airmax drifts orange:black 5.5,6.5 $70 (2).JPG": "__CDN_BASE__/pics-to-post/airmax drifts orange:black 5.5,6.5 $70 (2).JPG",
-        "airmax drifts orange:black 5.5,6.5 $70 (3).JPG": "__CDN_BASE__/pics-to-post/airmax drifts orange:black 5.5,6.5 $70 (3).JPG"
+        "airmax drifts orange:black 5.5,6.5 $70.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20drifts%20orange%3Ablack%205.5%2C6.5%20%2470.JPG",
+        "airmax drifts orange:black 5.5,6.5 $70 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20drifts%20orange%3Ablack%205.5%2C6.5%20%2470%20%282%29.JPG",
+        "airmax drifts orange:black 5.5,6.5 $70 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20drifts%20orange%3Ablack%205.5%2C6.5%20%2470%20%283%29.JPG"
       }
     },
     {
@@ -60,10 +60,10 @@
         "airmax plus white :blue size 7 $80 (4).JPG"
       ],
       "file_urls": {
-        "airmax plus white :blue size 7 $80.JPG": "__CDN_BASE__/pics-to-post/airmax plus white :blue size 7 $80.JPG",
-        "airmax plus white :blue size 7 $80 (2).JPG": "__CDN_BASE__/pics-to-post/airmax plus white :blue size 7 $80 (2).JPG",
-        "airmax plus white :blue size 7 $80 (3).JPG": "__CDN_BASE__/pics-to-post/airmax plus white :blue size 7 $80 (3).JPG",
-        "airmax plus white :blue size 7 $80 (4).JPG": "__CDN_BASE__/pics-to-post/airmax plus white :blue size 7 $80 (4).JPG"
+        "airmax plus white :blue size 7 $80.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20plus%20white%20%3Ablue%20size%207%20%2480.JPG",
+        "airmax plus white :blue size 7 $80 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20plus%20white%20%3Ablue%20size%207%20%2480%20%282%29.JPG",
+        "airmax plus white :blue size 7 $80 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20plus%20white%20%3Ablue%20size%207%20%2480%20%283%29.JPG",
+        "airmax plus white :blue size 7 $80 (4).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmax%20plus%20white%20%3Ablue%20size%207%20%2480%20%284%29.JPG"
       }
     },
     {
@@ -81,9 +81,9 @@
         "airmaxplus teal size 6.5,7 $80 (3).JPG"
       ],
       "file_urls": {
-        "airmaxplus teal size 6.5,7 $80.JPG": "__CDN_BASE__/pics-to-post/airmaxplus teal size 6.5,7 $80.JPG",
-        "airmaxplus teal size 6.5,7 $80 (2).JPG": "__CDN_BASE__/pics-to-post/airmaxplus teal size 6.5,7 $80 (2).JPG",
-        "airmaxplus teal size 6.5,7 $80 (3).JPG": "__CDN_BASE__/pics-to-post/airmaxplus teal size 6.5,7 $80 (3).JPG"
+        "airmaxplus teal size 6.5,7 $80.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmaxplus%20teal%20size%206.5%2C7%20%2480.JPG",
+        "airmaxplus teal size 6.5,7 $80 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmaxplus%20teal%20size%206.5%2C7%20%2480%20%282%29.JPG",
+        "airmaxplus teal size 6.5,7 $80 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/airmaxplus%20teal%20size%206.5%2C7%20%2480%20%283%29.JPG"
       }
     },
     {
@@ -102,9 +102,9 @@
         "asics green:cream size 7,8,10 $110 (3).JPG"
       ],
       "file_urls": {
-        "asics green:cream size 7,8,10 $110.JPG": "__CDN_BASE__/pics-to-post/asics green:cream size 7,8,10 $110.JPG",
-        "asics green:cream size 7,8,10 $110 (2).JPG": "__CDN_BASE__/pics-to-post/asics green:cream size 7,8,10 $110 (2).JPG",
-        "asics green:cream size 7,8,10 $110 (3).JPG": "__CDN_BASE__/pics-to-post/asics green:cream size 7,8,10 $110 (3).JPG"
+        "asics green:cream size 7,8,10 $110.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20green%3Acream%20size%207%2C8%2C10%20%24110.JPG",
+        "asics green:cream size 7,8,10 $110 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20green%3Acream%20size%207%2C8%2C10%20%24110%20%282%29.JPG",
+        "asics green:cream size 7,8,10 $110 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20green%3Acream%20size%207%2C8%2C10%20%24110%20%283%29.JPG"
       }
     },
     {
@@ -124,9 +124,9 @@
         "asics size grey:silver7,8,9,9.5 $120 (3).JPG"
       ],
       "file_urls": {
-        "asics size grey:silver7,8,9,9.5 $120.JPG": "__CDN_BASE__/pics-to-post/asics size grey:silver7,8,9,9.5 $120.JPG",
-        "asics size grey:silver7,8,9,9.5 $120 (2).JPG": "__CDN_BASE__/pics-to-post/asics size grey:silver7,8,9,9.5 $120 (2).JPG",
-        "asics size grey:silver7,8,9,9.5 $120 (3).JPG": "__CDN_BASE__/pics-to-post/asics size grey:silver7,8,9,9.5 $120 (3).JPG"
+        "asics size grey:silver7,8,9,9.5 $120.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20size%20grey%3Asilver7%2C8%2C9%2C9.5%20%24120.JPG",
+        "asics size grey:silver7,8,9,9.5 $120 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20size%20grey%3Asilver7%2C8%2C9%2C9.5%20%24120%20%282%29.JPG",
+        "asics size grey:silver7,8,9,9.5 $120 (3).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/asics%20size%20grey%3Asilver7%2C8%2C9%2C9.5%20%24120%20%283%29.JPG"
       }
     },
     {
@@ -143,8 +143,8 @@
         "nike dunk high yellow:white-airmax90 grey:black size 10 $100 (2).JPG"
       ],
       "file_urls": {
-        "nike dunk high yellow:white-airmax90 grey:black size 10 $100.JPG": "__CDN_BASE__/pics-to-post/nike dunk high yellow:white-airmax90 grey:black size 10 $100.JPG",
-        "nike dunk high yellow:white-airmax90 grey:black size 10 $100 (2).JPG": "__CDN_BASE__/pics-to-post/nike dunk high yellow:white-airmax90 grey:black size 10 $100 (2).JPG"
+        "nike dunk high yellow:white-airmax90 grey:black size 10 $100.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/nike%20dunk%20high%20yellow%3Awhite-airmax90%20grey%3Ablack%20size%2010%20%24100.JPG",
+        "nike dunk high yellow:white-airmax90 grey:black size 10 $100 (2).JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-to-post/nike%20dunk%20high%20yellow%3Awhite-airmax90%20grey%3Ablack%20size%2010%20%24100%20%282%29.JPG"
       }
     }
   ],
@@ -159,7 +159,7 @@
         "jordan 4 red cement size 7 $190.JPG"
       ],
       "file_urls": {
-        "jordan 4 red cement size 7 $190.JPG": "__CDN_BASE__/pics-for-singles/jordan 4 red cement size 7 $190.JPG"
+        "jordan 4 red cement size 7 $190.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-for-singles/jordan%204%20red%20cement%20size%207%20%24190.JPG"
       }
     },
     {
@@ -172,7 +172,7 @@
         "wmns jordan 4 orchid:grey size 5.5 $250.JPG"
       ],
       "file_urls": {
-        "wmns jordan 4 orchid:grey size 5.5 $250.JPG": "__CDN_BASE__/pics-for-singles/wmns jordan 4 orchid:grey size 5.5 $250.JPG"
+        "wmns jordan 4 orchid:grey size 5.5 $250.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-for-singles/wmns%20jordan%204%20orchid%3Agrey%20size%205.5%20%24250.JPG"
       }
     },
     {
@@ -185,7 +185,7 @@
         "jordan 4 white:green size 9.5 $190.JPG"
       ],
       "file_urls": {
-        "jordan 4 white:green size 9.5 $190.JPG": "__CDN_BASE__/pics-for-singles/jordan 4 white:green size 9.5 $190.JPG"
+        "jordan 4 white:green size 9.5 $190.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-for-singles/jordan%204%20white%3Agreen%20size%209.5%20%24190.JPG"
       }
     },
     {
@@ -199,8 +199,9 @@
         "jordan 11 white:columbia blue size 7.JPG"
       ],
       "file_urls": {
-        "jordan 11 white:columbia blue size 7.JPG": "__CDN_BASE__/pics-for-singles/jordan 11 white:columbia blue size 7.JPG"
+        "jordan 11 white:columbia blue size 7.JPG": "https://cdn.jsdelivr.net/gh/forbesshalrick-dotcom/Sp242-frames@15a2ba1/marketplace-drop-2026-09-12/pics-for-singles/jordan%2011%20white%3Acolumbia%20blue%20size%207.JPG"
       }
     }
-  ]
+  ],
+  "pinned_commit": "15a2ba1"
 }
