@@ -19,13 +19,17 @@ airmax97white001
 airmaxplus3001
 airmaxplusbkbr001
 airmaxplusblkorg001
+airmaxplusblkred001
 airmaxplusgrb001
+airmaxplusgryorg001
 airmaxplusnapoli001
 airmaxpluspkwht001
+airmaxpluspnkblk002
 airmaxplusptn001
 airmaxpluspurp001
 airmaxpluswpkbk001
 airmaxpluswpur001
+airmaxplusylwblk002
 airtrainer001
 asics001
 asicsbkwht001
@@ -219,7 +223,9 @@ jordan6blackred001
 jordanorwht001
 nb1000fgreen001
 nb1906black001
+nb2000black001
 nb2000blkwhtred001
+nb2000bluegrey001
 nb550white001
 nb740pinksilv001
 nb9060white001
@@ -265,4 +271,5 @@ vomero5black001
 vomero5blackpink001
 vomero5white001
 vomero5whitegreen001
+vomero5whitered001
 vomero5whitesilver001
