@@ -134,9 +134,13 @@ c0466
 c0467
 c0468
 co479
+co503
+co541
 co556
 co558
 co590
+co601
+co602
 co604
 co618
 huarache001
