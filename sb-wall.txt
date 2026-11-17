@@ -22,6 +22,7 @@ airtrainer001
 asics001
 asicsbkwht001
 asicsblk001
+asicsbrnwht001
 asicsgrncream001
 asicsgrnsil001
 asicsgrywht001
@@ -89,6 +90,7 @@ c0433
 c0434
 c0435
 c0436
+c0437
 c0440
 c0445
 c0446
@@ -122,9 +124,11 @@ jordan11tan001
 jordan4bblured001
 jordan4blackcat001
 jordan4blackred001
+jordan4blackred002
 jordan4blackwhite001
 jordan4green001
 jordan4gum001
+jordan4milblue001
 jordan4military001
 jordan4pizza001
 jordan4purple001
@@ -132,6 +136,8 @@ jordan4purple002
 jordan4red001
 jordan4redcement001
 jordan4taupe001
+jordan4thunder001
+jordan4yellow001
 jordan5grey001
 jordan5wblack001
 jordan6blackred001
@@ -157,6 +163,7 @@ p52
 p53
 p54
 p55
+p56
 p59
 p61
 p62
