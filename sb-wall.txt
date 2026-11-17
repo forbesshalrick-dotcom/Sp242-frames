@@ -135,12 +135,18 @@ co604
 co618
 huarache001
 jordan11black001
+jordan11grey001
 jordan11red001
 jordan11royalblue001
 jordan11tan001
 jordan11volt001
+jordan11white001
+jordan12black001
 jordan13blackred001
 jordan1grn001
+jordan3green001
+jordan3peach001
+jordan4allred001
 jordan4bblured001
 jordan4blackcat001
 jordan4blackred001
@@ -161,6 +167,7 @@ jordan4thunder001
 jordan4yellow001
 jordan5grey001
 jordan5wblack001
+jordan5white001
 jordan6blackred001
 jordanorwht001
 nb1000fgreen001
