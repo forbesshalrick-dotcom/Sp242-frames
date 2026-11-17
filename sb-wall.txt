@@ -19,9 +19,12 @@ airmaxpluspurp001
 airmaxpluswpkbk001
 airmaxpluswpur001
 airtrainer001
+asicsblk001
 asicsgrncream001
 asicsgrnsil001
 asicsgrywht001
+asicspnksuede001
+asicsred001
 asicswhtblk001
 c0338
 c0340
@@ -34,10 +37,12 @@ c0358
 c0361
 c0363
 c0364
+c0371
 c0377
 c0382
 c0383
 c0385
+c0386
 c0388
 c0389
 c0390
@@ -128,8 +133,10 @@ p48
 p49
 p50
 p52
+p53
 p54
 p55
+p59
 p61
 p63
 p68
