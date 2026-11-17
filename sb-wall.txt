@@ -19,6 +19,9 @@ airmaxpluspurp001
 airmaxpluswpkbk001
 airmaxpluswpur001
 airtrainer001
+asicsgrncream001
+asicsgrnsil001
+asicswhtblk001
 c0338
 c0340
 c0341
@@ -65,6 +68,7 @@ c0427
 c0429
 c0431
 c0433
+c0435
 c0436
 c0440
 c0445
@@ -99,6 +103,7 @@ jordan4blackred001
 jordan4military001
 jordan4purple001
 jordan4purple002
+jordan4redcement001
 jordan4taupe001
 jordan5wblack001
 jordan6blackred001
@@ -109,11 +114,13 @@ nb740pinksilv001
 nikemuleblack001
 nikemulewhite001
 p41
+p42
 p44
 p46
 p48
 p49
 p50
+p52
 p54
 p55
 p61
