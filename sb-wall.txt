@@ -91,10 +91,14 @@ co558
 co590
 co604
 co618
+jordan11black001
+jordan4bblured001
 jordan4blackred001
 jordan4military001
+jordan4purple001
 jordan4purple002
 jordan4taupe001
+jordan5wblack001
 nb1000fgreen001
 nb1906black001
 nb550white001
@@ -109,7 +113,10 @@ p49
 p50
 p54
 p55
+p57
+p61
 p63
+p65
 p69
 p70
 p72
