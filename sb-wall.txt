@@ -28,6 +28,7 @@ asicspnksuede001
 asicsred001
 asicswhtblk001
 c0338
+c0339
 c0340
 c0341
 c0343
@@ -70,6 +71,8 @@ c0413
 c0414
 c0415
 c0416
+c0417
+c0418
 c0422
 c0423
 c0424
@@ -77,7 +80,9 @@ c0425
 c0426
 c0427
 c0429
+c0430
 c0431
+c0432
 c0433
 c0434
 c0435
@@ -116,8 +121,10 @@ jordan4blackred001
 jordan4military001
 jordan4purple001
 jordan4purple002
+jordan4red001
 jordan4redcement001
 jordan4taupe001
+jordan5grey001
 jordan5wblack001
 jordan6blackred001
 jordanorwht001
