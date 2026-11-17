@@ -14,6 +14,8 @@ airmax97crm001
 airmax97white001
 airmaxplus3001
 airmaxplusbkbr001
+airmaxplusblkorg001
+airmaxplusblkred001
 airmaxplusgrb001
 airmaxpluspkwht001
 airmaxplusptn001
