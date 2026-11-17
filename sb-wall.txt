@@ -8,6 +8,7 @@ airmax95bkwht001
 airmax95bkyel001
 airmax95yel001
 airmax97bkrbow001
+airmax97black001
 airmax97cheet001
 airmax97crm001
 airmax97white001
@@ -23,6 +24,7 @@ airtrainer001
 asics001
 asicsbkwht001
 asicsblk001
+asicsblkpnksil001
 asicsbrnwht001
 asicsgnsuede001
 asicsgrncream001
@@ -128,6 +130,8 @@ c0464
 c0465
 c0466
 c0467
+c0644
+c0647
 co479
 co488
 co492
@@ -224,3 +228,6 @@ vapormaxbkred001
 vapormaxpurp001
 vapormaxtealbk001
 vapormaxutil001
+vomero5black001
+vomero5blackpink001
+vomero5white001
