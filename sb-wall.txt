@@ -228,6 +228,3 @@ vapormaxbkred001
 vapormaxpurp001
 vapormaxtealbk001
 vapormaxutil001
-vomero5black001
-vomero5blackpink001
-vomero5white001
