@@ -13,6 +13,7 @@ airmax97black001
 airmax97bluewhite001
 airmax97cheet001
 airmax97crm001
+airmax97silver001
 airmax97white001
 airmaxplus3001
 airmaxplusbkbr001
@@ -20,6 +21,7 @@ airmaxplusblkorg001
 airmaxplusblkred001
 airmaxplusgrb001
 airmaxplusgryorg001
+airmaxplusnapoli001
 airmaxpluspkwht001
 airmaxpluspnkblk002
 airmaxplusptn001
@@ -239,6 +241,7 @@ jordan11tan001
 jordan11volt001
 jordan11white001
 jordan12black001
+jordan12whtgreen001
 jordan13blackred001
 jordan1grn001
 jordan3green001
@@ -263,6 +266,7 @@ jordan4taupe001
 jordan4thunder001
 jordan4yellow001
 jordan5grey001
+jordan5olive001
 jordan5wblack001
 jordan5white001
 jordan6blackred001
