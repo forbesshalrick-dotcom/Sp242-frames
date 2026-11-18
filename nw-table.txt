@@ -131,6 +131,7 @@ co494
 co499
 co507
 co511
+co520
 co522
 co523
 co524
@@ -140,6 +141,7 @@ co531
 co532
 co533
 co544
+co545
 co548
 co556
 co557
@@ -166,6 +168,8 @@ co594
 co604
 co605
 co606
+co612
+co617
 co618
 co632
 huarache001
