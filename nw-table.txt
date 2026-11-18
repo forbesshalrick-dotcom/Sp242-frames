@@ -24,12 +24,16 @@ asics001
 asicsbkwht001
 asicsblk001
 asicsbrnwht001
+asicsgnsuede001
 asicsgrncream001
 asicsgrnsil001
 asicsgrywht001
 asicspnksuede001
 asicsred001
 asicswhtblk001
+c0327
+c0332
+c0334
 c0338
 c0339
 c0340
@@ -42,6 +46,7 @@ c0357
 c0360
 c0366
 c0371
+c0381
 c0386
 c0389
 c0390
@@ -97,6 +102,7 @@ c0451
 c0452
 c0453
 c0454
+c0455
 c0456
 c0457
 c0458
@@ -106,6 +112,7 @@ c0461
 c0462
 c0463
 c0464
+c0465
 c0466
 c0467
 co479
@@ -116,6 +123,7 @@ co604
 co618
 huarache001
 jordan11black001
+jordan11red001
 jordan11royalblue001
 jordan11tan001
 jordan11volt001
