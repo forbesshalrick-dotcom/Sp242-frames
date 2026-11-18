@@ -15,12 +15,16 @@ airmax97crm001
 airmax97white001
 airmaxplus3001
 airmaxplusbkbr001
+airmaxplusblkorg001
+airmaxplusblkred001
 airmaxplusgrb001
 airmaxpluspkwht001
+airmaxpluspnkblk002
 airmaxplusptn001
 airmaxpluspurp001
 airmaxpluswpkbk001
 airmaxpluswpur001
+airmaxplusylwblk002
 airtrainer001
 asics001
 asicsbkwht001
