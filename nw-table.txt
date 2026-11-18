@@ -34,10 +34,12 @@ c0338
 c0339
 c0340
 c0341
+c0342
 c0343
 c0344
 c0347
 c0357
+c0360
 c0366
 c0371
 c0386
@@ -53,6 +55,7 @@ c0399
 c0400
 c0401
 c0402
+c0403
 c0404
 c0405
 c0406
@@ -82,7 +85,9 @@ c0434
 c0435
 c0436
 c0437
+c0439
 c0440
+c0443
 c0445
 c0446
 c0447
@@ -115,6 +120,7 @@ jordan11royalblue001
 jordan11tan001
 jordan11volt001
 jordan13blackred001
+jordan1grn001
 jordan4bblured001
 jordan4blackcat001
 jordan4blackred001
@@ -176,5 +182,6 @@ p73
 p74
 vapormax2020grey001
 vapormaxbkgrn001
+vapormaxbkred001
 vapormaxpurp001
 vapormaxtealbk001
