@@ -6,6 +6,7 @@ airmax90whtpnk001
 airmax95bkbl001
 airmax95bkwht001
 airmax95bkyel001
+airmax95brown001
 airmax95yel001
 airmax97bkrbow001
 airmax97black001
@@ -304,3 +305,7 @@ vapormaxpurp001
 vapormaxtealbk001
 vapormaxutil001
 vomero5black001
+vomero5blackpink001
+vomero5white001
+vomero5whitegreen001
+vomero5whitesilver001
