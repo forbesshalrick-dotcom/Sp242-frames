@@ -3,6 +3,7 @@ airmax90bkyel001
 airmax90brn001
 airmax90grn001
 airmax90whtpnk001
+airmax95bk001
 airmax95bkbl001
 airmax95bkwht001
 airmax95bkyel001
@@ -234,6 +235,7 @@ co633
 co634
 huarache001
 jordan11black001
+jordan11cdg001
 jordan11grey001
 jordan11red001
 jordan11royalblue001
@@ -246,6 +248,7 @@ jordan13blackred001
 jordan1grn001
 jordan3green001
 jordan3peach001
+jordan3sail001
 jordan4allred001
 jordan4bblured001
 jordan4blackcat001
@@ -262,13 +265,16 @@ jordan4purple001
 jordan4purple002
 jordan4red001
 jordan4redcement001
+jordan4sbnavy001
 jordan4taupe001
 jordan4thunder001
 jordan4yellow001
+jordan5blkmetal001
 jordan5grey001
 jordan5olive001
 jordan5wblack001
 jordan5white001
+jordan5wolfgrey001
 jordan6blackred001
 jordanorwht001
 nb1000fgreen001
