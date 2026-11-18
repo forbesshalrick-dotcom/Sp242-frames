@@ -146,7 +146,6 @@ co580
 co581
 co583
 co590
-co593
 co604
 co618
 huarache001
